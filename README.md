@@ -1,3 +1,4 @@
 # hello-world
 ainway
-git hub's icon is the worst in the world.
+git is good but i can make it better
+
